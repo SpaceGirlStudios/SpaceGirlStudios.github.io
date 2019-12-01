@@ -265,6 +265,61 @@ footer {
 	display: none;
 }
 
+.trailer-container iframe {
+    border: 0;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    display: block;
+    padding-left: auto;
+    padding-right: auto;
+}
+
+.trailer-container {
+  overflow: hidden;
+  padding-top: 28.125%;
+  position: relative;
+}
+
+.platforms h2 {
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+}
+
+.platforms{
+    font-size: xx-large;
+    text-shadow: 0px 0px;
+    color: #FFFFFF;
+}
+
+.platforms img{
+    height: 36px;
+    margin: auto;
+    /* [disabled]padding-top: 26px; */
+    padding-right: 26px;
+    padding-left: 26px;
+    padding-bottom: 26px;
+    display: inline-block;
+}
+
+.icons {
+    align-content: center;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: auto;
+    padding-right: auto;
+    text-align: center;
+}
+
+
+
 /* Mobile */
 @media (max-width: 320px) {
 .logo {
@@ -457,58 +512,6 @@ nav ul li {
 	width: 100%;
 }
 
-.trailer-container iframe {
-    border: 0;
-    height: 100%;
-    position: absolute;
-    top: 0;
-    width: 50%;
-    margin-left: 25%;
-    margin-right: 25%;
-    display: block;
-    padding-left: auto;
-    padding-right: auto;
-}
-
-.trailer-container {
-  overflow: hidden;
-  padding-top: 28.125%;
-  position: relative;
-}
-
-.platforms h2 {
-    color: white;
-    text-align: center;
-    font-size: xx-large;
-}
-
-.platforms{
-    font-size: xx-large;
-    text-shadow: 0px 0px;
-    color: #FFFFFF;
-}
-
-.platforms img{
-    height: 36px;
-    margin: auto;
-    /* [disabled]padding-top: 26px; */
-    padding-right: 26px;
-    padding-left: 26px;
-    padding-bottom: 26px;
-    display: inline-block;
-}
-
-.icons {
-    align-content: center;
-    -webkit-box-sizing: content-box;
-    -moz-box-sizing: content-box;
-    box-sizing: content-box;
-    margin-left: auto;
-    margin-right: auto;
-    padding-left: auto;
-    padding-right: auto;
-    text-align: center;
-}
 
 	
 }
