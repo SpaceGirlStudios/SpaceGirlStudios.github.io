@@ -2,7 +2,7 @@
 /* Body */
 body {
 	font-family: source-sans-pro;
-	background-color: black;
+	background-color: #1C151F;
 	margin-top: 0px;
 	margin-right: 0px;
 	margin-bottom: 0px;
@@ -16,7 +16,7 @@ body {
 	margin-left: auto;
 	margin-right: auto;
 	height: 1000px;
-	background-color: black;
+	background-color: #1C151F;
 }
 /* Navigation */
 header {
@@ -55,7 +55,7 @@ nav ul li {
 	transition: all 0.3s linear;
 }
 ul li a {
-	color: #FFFFFF;
+	color: #1C151F;
 	text-decoration: none;
 }
 ul li:hover a {
@@ -73,7 +73,7 @@ ul li:hover a {
 }
 /* Hero Section */
 .hero {
-    background-color: black;
+    background-color: #1C151F;
     padding-top: 50px;
     padding-bottom: 5px;
     align-content: center;
@@ -112,7 +112,7 @@ ul li:hover a {
     padding-top: 15px;
     display: inline-block;
     position: relative;
-    background-color: black;
+    background-color: #1C151F;
     margin-top: 0px;
 }
 
@@ -189,7 +189,7 @@ a{
 }
 /* More info */
 footer {
-	background-color: #FFFFFF;
+	background-color: #1C151F;
 	padding-bottom: 35px;
 }
 .footer_column {
@@ -204,7 +204,7 @@ footer .footer_column h3 {
 }
 footer .footer_column p {
 	color: #717070;
-	background-color: #FFFFFF;
+	background-color: #1C151F;
 }
 .cards {
 	width: 100%;
@@ -250,7 +250,7 @@ footer .footer_column p {
 	text-align: center;
 	padding-top: 20px;
 	padding-bottom: 20px;
-	background-color: black;
+	background-color: #1C151F;
 	color: #FFFFFF;
 	text-transform: uppercase;
 	font-weight: lighter;
